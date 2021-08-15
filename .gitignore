@@ -107,5 +107,5 @@ dist
 .vscode-test
 
 docs/
-
+api/
 .DS_Store
